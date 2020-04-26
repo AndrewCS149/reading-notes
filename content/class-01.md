@@ -60,8 +60,7 @@ Since there have been several versions of HTML released, we need to specify whic
 <iframe
     width="450"
     height="350"
-    src="https://www.google.com/maps/place/Code+Fellows/@47.6183043,-122.3530041,17z/data=!4m12!1m6!3m5!1s0x5490153758c88a61:0xe3d3fd29c55db518!2sCode+Fellows!8m2!3d47.6183694!4d-122.3517917!3m4!1s0x5490153758c88a61:0xe3d3fd29c55db518!8m2!3d47.6183694!4d-122.3517917
-    &amp;output=embed">
+    src="https://www.google.com/maps/place/Code+Fellows/@47.6183043,-122.3530041,17z/data=!4m12!1m6!3m5!1s0x5490153758c88a61:0xe3d3fd29c55db518!2sCode+Fellows!8m2!3d47.6183694!4d-122.3517917!3m4!1s0x5490153758c88a61:0xe3d3fd29c55db518!8m2!3d47.6183694!4d-122.3517917">
 </iframe>
 
 
