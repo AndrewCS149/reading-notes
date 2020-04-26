@@ -8,7 +8,7 @@ These pages are to assist me in documenting key topics and reminders about the c
 
 ## Table of Contents 
 
-* [link](content)
+* [HTML, CSS & JavaScript Intro](content/class-01.md)
 * [link](content)
 * [link](content)
 * [link](content)
