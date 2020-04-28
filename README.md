@@ -9,7 +9,7 @@ These pages are to assist me in documenting key topics and reminders about the c
 ## Table of Contents 
 
 * [HTML, CSS & JavaScript Intro](content/class-01.md)
-* [link](content)
+* [JavaScript Basics & Git Commit Messages](content/class-02.md)
 * [link](content)
 * [link](content)
 * [link](content)
