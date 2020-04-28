@@ -8,9 +8,9 @@ These pages are to assist me in documenting key topics and reminders about the c
 
 ## Table of Contents 
 
-* [HTML, CSS & JavaScript Intro](content/class-01.md)
-* [JavaScript Basics & Git Commit Messages](content/class-02.md)
-* [link](content)
+* [Class 01 notes](content/class-01.md)
+* [Class 02 notes](content/class-02.md)
+* [Class 03 notes](content/class-03.md)
 * [link](content)
 * [link](content)
 * [link](content)
