@@ -89,7 +89,7 @@ What is the difference between equal to and strict equal to? The equal to `==` o
 
 ### Writing a git commit message 
 
-When committing a file, it is important to include a **commit message** that briefly explains what changes are being pushed up to Github. When writing a commit message, following these seven rules will help to create a well organized message. 
+When committing a file, it is important to include a **commit message** that briefly explains what changes are being pushed up to Github. When writing a commit message, following these seven rules written by Chris Beams in *How to Write Git Commit Message*:
 
 > 1. Separate subject from body with a blank line
 > 2. Limit the subject line to 50 characters
@@ -98,4 +98,3 @@ When committing a file, it is important to include a **commit message** that bri
 > 5. Use the imperative mood in the subject line
 > 6. Wrap the body at 72 characters
 > 7. Use the body to explain what and why vs. how
-> -*How to Write a Git Commit Message* by Chris beams 
