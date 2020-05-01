@@ -13,7 +13,7 @@ These pages are to assist me in documenting key topics and reminders about the c
 * [Class 03 notes](content/class-03.md)
 * [Class 04 notes](content/class-04.md)
 * [Class 04 notes](content/class-05.md)
-* [link](content)
+* [Class 05 notes](content/class-05.md)
 * [link](content)
 * [link](content)
 * [link](content)
