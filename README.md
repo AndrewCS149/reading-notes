@@ -16,7 +16,7 @@ These pages are to assist me in documenting key topics and reminders about the c
 * [Class 05 notes](content/class-05.md)
 * [Class 06 notes](content/class-06.md)
 * [Class 07 notes](content/class-07.md)
-* [link](content)
+* [Class 08 notes](content/class-08.md)
 * [link](content)
 * [link](content)
 * [link](content)
