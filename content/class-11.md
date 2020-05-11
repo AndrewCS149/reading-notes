@@ -117,4 +117,4 @@ It is important to track user activity on a website to see how they were directe
 
 #### Deploying a website
 
-To deploy a site, a **domain name** and **web hosting**.
+To deploy a site, a **domain name** and **web hosting** is needed.
