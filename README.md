@@ -19,7 +19,7 @@ These pages are to assist me in documenting key topics and reminders about the c
 * [Class 08 notes](content/class-08.md)
 * [Class 09 notes](content/class-09.md)
 * [Class 10 notes](content/class-10.md)
-* [link](content)
+* [Class 10 notes](content/class-11.md)
 * [link](content)
 * [link](content)
 * [link](content)
