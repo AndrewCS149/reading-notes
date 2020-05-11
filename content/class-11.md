@@ -113,7 +113,7 @@ There are **seven** different areas where **keywords** should be used.
 
 ##### Site Analytics
 
-It is important to track user activity on a website to see how they were directed to the website and at which time or location on the website they decided to leave. This can help identify weak or unappealing spots in a website. Sign up for a analytics service at [google analytics]("https://www.google.com/analytics").
+It is important to track user activity on a website to see how they were directed to the website and at which time or location on the website they decided to leave. This can help identify weak or unappealing spots in a website. Sign up for a analytics service at "https://www.google.com/analytics".
 
 #### Deploying a website
 
