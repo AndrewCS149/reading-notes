@@ -20,6 +20,6 @@ These pages are to assist me in documenting key topics and reminders about the c
 * [Class 09 notes](content/class-09.md)
 * [Class 10 notes](content/class-10.md)
 * [Class 11 notes](content/class-11.md)
-* [link](content)
+* [Class 12 notes](content/class-12.md)
 * [link](content)
 * [link](content)
