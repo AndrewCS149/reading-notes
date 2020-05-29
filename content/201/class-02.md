@@ -27,7 +27,7 @@
 
 CSS is used to control the look and design of a webpage. To understand how CSS works, we need to think of HTML in a specific manner. Imagine that all the elements within the page are inside boxes. CSS allows us to target each individual box and represent them in different ways. We can shift the boxes up, left, right or down. We can change the background color for each box as well as the size of the text within each box. There is much more that can be done to every box that will be covered later. 
 
-![HTML boxes example](../images/htmlBoxes.png)
+![HTML boxes example](../../images/htmlBoxes.png)
 
 CSS **rules** consist of two mains parts, the **Selector** and the **declaration**. Each declaration consists of a **Property** and a **Value**. The selector chooses which HTML element to target, while the declaration is what actually changes the HTML element. The property within the declaration indicates which aspect of the element to change while the value is the actual value of that aspect. 
 

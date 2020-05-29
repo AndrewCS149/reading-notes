@@ -1,26 +1,34 @@
-# **Code 201 Reading Notes**
+# **Code Fellows Reading Notes**
 
 ---
 
-These pages are to assist me in documenting key topics and reminders about the content that will be covered in **Code 201**. Below is a table of contents that provide links to the topics covered.
+These pages are to assist me in documenting key topics and reminders about the content that will be covered in **Code 201**, **Code 301** and **Code 401**. Below is a table of contents that provide links to the topics covered.
 
 ---
 
 ## Table of Contents
 
-* [Class 01 notes](content/class-01.md)
-* [Class 02 notes](content/class-02.md)
-* [Class 03 notes](content/class-03.md)
-* [Class 04 notes](content/class-04.md)
-* [Class 04 notes](content/class-05.md)
-* [Class 05 notes](content/class-05.md)
-* [Class 06 notes](content/class-06.md)
-* [Class 07 notes](content/class-07.md)
-* [Class 08 notes](content/class-08.md)
-* [Class 09 notes](content/class-09.md)
-* [Class 10 notes](content/class-10.md)
-* [Class 11 notes](content/class-11.md)
-* [Class 12 notes](content/class-12.md)
-* [Class 13 notes](content/class-13.md)
-* [Class 14 notes](content/class-14.md)
-* [Class 15 notes](content/class-15.md)
+## Code 201
+
+* [Class 01 notes](content/201/class-01.md)
+* [Class 02 notes](content/201/class-02.md)
+* [Class 03 notes](content/201/class-03.md)
+* [Class 04 notes](content/201/class-04.md)
+* [Class 04 notes](content/201/class-05.md)
+* [Class 05 notes](content/201/class-05.md)
+* [Class 06 notes](content/201/class-06.md)
+* [Class 07 notes](content/201/class-07.md)
+* [Class 08 notes](content/201/class-08.md)
+* [Class 09 notes](content/201/class-09.md)
+* [Class 10 notes](content/201/class-10.md)
+* [Class 11 notes](content/201/class-11.md)
+* [Class 12 notes](content/201/class-12.md)
+* [Class 13 notes](content/201/class-13.md)
+* [Class 14 notes](content/201/class-14.md)
+* [Class 15 notes](content/201/class-15.md)
+
+---
+
+## Code 301
+
+* [Read 01 Notes](content/301/read-01.md)
