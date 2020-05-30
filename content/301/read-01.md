@@ -6,7 +6,7 @@
 
 RWD is the process of creating a website that works seamlessly between all devices with all screen sizes.
 
-RWD can be compartmentalized into three subcategories: **Felxible Layouts, Media Queries,** and **Flexible Media.** 
+RWD can be compartmentalized into three subcategories: **Flexible Layouts, Media Queries,** and **Flexible Media.** 
 
 #### Flexible Layouts
 
