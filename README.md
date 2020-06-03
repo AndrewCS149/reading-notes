@@ -33,3 +33,4 @@ These pages are to assist me in documenting key topics and reminders about the c
 
 * [Read 01 Notes](content/301/read-01.md)
 * [Read 02 Notes](content/301/read-02.md)
+* [Read 03 Notes](content/301/read-03.md)
