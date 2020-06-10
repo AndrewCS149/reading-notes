@@ -38,4 +38,5 @@ These pages are to assist me in documenting key topics and reminders about the c
 * [Read 05 Notes](content/301/read-05.md)
 * [Read 06 Notes](content/301/read-06.md)
 * [Read 07 Notes](content/301/read-07.md)
+* [Read 08 Notes](content/301/read-08.md)
 
