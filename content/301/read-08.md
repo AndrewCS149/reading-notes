@@ -55,3 +55,5 @@ Connect a file to a DB and run the file.
 `-f` stands for 'file'.
 
 `psql -f (file-name) -d (DB name)`
+
+---
