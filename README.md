@@ -46,4 +46,5 @@ These pages are to assist me in documenting key topics and reminders about the c
 ## Code 401
 
 * [Read 01 Notes](content/401/read-01.md)
+* [Read 02 Notes](content/401/read-02.md)
 
