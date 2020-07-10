@@ -49,4 +49,5 @@ These pages are to assist me in documenting key topics and reminders about the c
 * [Read 02 Notes](content/401/read-02.md)
 * [Read 03 Notes](content/401/read-03.md)
 * [Read 04 Notes](content/401/read-04.md)
+* [Read 05 Notes](content/401/read-05.md)
 
