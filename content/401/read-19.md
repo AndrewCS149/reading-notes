@@ -19,7 +19,3 @@ public class AdminDashboard : Controller
     public IActionResult Index() => View();
 }
   ```
----
-
-  ### Custom Authorization Policies
-
