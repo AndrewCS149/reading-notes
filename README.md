@@ -65,6 +65,7 @@ These pages are to assist me in documenting key topics and reminders about the c
 * [Read 18 Notes](content/401/read-18.md)
 * [Read 19 Notes](content/401/read-19.md)
 * [Read 20 Notes](content/401/read-20.md)
+* [Read 21 Notes](content/401/read-21.md)
 
 
 
